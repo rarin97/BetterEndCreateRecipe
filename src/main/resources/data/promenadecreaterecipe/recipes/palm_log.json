@@ -1,0 +1,14 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "promenade:palm_log"
+    }
+  ],
+  "processingTime": 50,
+  "results": [
+    {
+      "item": "promenade:stripped_palm_log"
+    }
+  ]
+}

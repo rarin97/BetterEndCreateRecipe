@@ -1,0 +1,33 @@
+{
+	"schemaVersion": 1,
+	"id": "promenadecreaterecipe",
+	"version": "${version}",
+	"name": "Promenadecreaterecipe",
+	"description": "adds mechanical saw recipes for Promenade logs!",
+	"authors": [
+		"Rarin!"
+	],
+	"license": "MIT",
+	"icon": "assets/promenadecreaterecipe/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.rarin.promenadecreaterecipe.Promenadecreaterecipe"
+		],
+		"client": [
+			"net.rarin.promenadecreaterecipe.Promenadecreaterecipeclient"
+		],
+		"fabric-datagen": [
+			"net.rarin.promenadecreaterecipe.PromenadecreaterecipeDataGenerator"
+		]
+	},
+	"mixins": [
+		"promenadecreaterecipe.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.16.14",
+		"minecraft": "~1.20.1",
+		"java": ">=17",
+		"fabric-api": "*"
+	}
+}

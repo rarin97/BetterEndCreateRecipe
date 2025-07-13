@@ -1,0 +1,14 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "promenade:maple_wood"
+    }
+  ],
+  "processingTime": 50,
+  "results": [
+    {
+      "item": "promenade:stripped_maple_wood"
+    }
+  ]
+}

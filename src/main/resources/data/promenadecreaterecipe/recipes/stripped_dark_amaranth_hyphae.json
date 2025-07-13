@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "promenade:stripped_dark_amaranth_hyphae"
+    }
+  ],
+  "processingTime": 50,
+  "results": [
+    {
+      "count": 6,
+      "item": "promenade:dark_amaranth_planks"
+    }
+  ]
+}

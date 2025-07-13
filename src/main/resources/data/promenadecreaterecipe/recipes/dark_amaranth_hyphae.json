@@ -1,0 +1,14 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "promenade:dark_amaranth_hyphae"
+    }
+  ],
+  "processingTime": 50,
+  "results": [
+    {
+      "item": "promenade:stripped_dark_amaranth_hyphae"
+    }
+  ]
+}

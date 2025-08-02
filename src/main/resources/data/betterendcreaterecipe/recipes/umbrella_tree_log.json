@@ -1,0 +1,14 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "betterend:umbrella_tree_log"
+    }
+  ],
+  "processingTime": 50,
+  "results": [
+    {
+      "item": "betterend:umbrella_tree_stripped_log"
+    }
+  ]
+}

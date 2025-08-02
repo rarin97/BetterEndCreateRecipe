@@ -1,0 +1,14 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "betterend:lucernia_bark"
+    }
+  ],
+  "processingTime": 50,
+  "results": [
+    {
+      "item": "betterend:lucernia_stripped_bark"
+    }
+  ]
+}

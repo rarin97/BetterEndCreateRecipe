@@ -1,0 +1,14 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "betterend:tenanea_log"
+    }
+  ],
+  "processingTime": 50,
+  "results": [
+    {
+      "item": "betterend:tenanea_stripped_log"
+    }
+  ]
+}

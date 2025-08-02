@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "betterend:jellyshroom_stripped_bark"
+    }
+  ],
+  "processingTime": 50,
+  "results": [
+    {
+      "count": 6,
+      "item": "betterend:jellyshroom_planks"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "betterend:lacugrove_bark"
+    }
+  ],
+  "processingTime": 50,
+  "results": [
+    {
+      "item": "betterend:lacugrove_stripped_bark"
+    }
+  ]
+}

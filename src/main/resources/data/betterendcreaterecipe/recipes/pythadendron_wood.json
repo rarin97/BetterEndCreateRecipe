@@ -1,0 +1,14 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "betterend:pythadendron_bark"
+    }
+  ],
+  "processingTime": 50,
+  "results": [
+    {
+      "item": "betterend:pythadendron_stripped_bark"
+    }
+  ]
+}

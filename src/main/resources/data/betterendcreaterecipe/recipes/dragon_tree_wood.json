@@ -1,0 +1,14 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "betterend:dragon_tree_bark"
+    }
+  ],
+  "processingTime": 50,
+  "results": [
+    {
+      "item": "betterend:dragon_tree_stripped_bark"
+    }
+  ]
+}

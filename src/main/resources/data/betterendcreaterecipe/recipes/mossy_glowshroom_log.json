@@ -1,0 +1,14 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "betterend:mossy_glowshroom_log"
+    }
+  ],
+  "processingTime": 50,
+  "results": [
+    {
+      "item": "betterend:mossy_glowshroom_stripped_log"
+    }
+  ]
+}

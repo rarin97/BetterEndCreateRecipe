@@ -1,0 +1,14 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "betternether:mushroom_fir_log"
+    }
+  ],
+  "processingTime": 50,
+  "results": [
+    {
+      "item": "betternether:mushroom_fir_stripped_log"
+    }
+  ]
+}

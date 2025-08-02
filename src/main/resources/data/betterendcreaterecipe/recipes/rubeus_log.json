@@ -1,0 +1,14 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "betternether:rubeus_log"
+    }
+  ],
+  "processingTime": 50,
+  "results": [
+    {
+      "item": "betternether:rubeus_stripped_log"
+    }
+  ]
+}

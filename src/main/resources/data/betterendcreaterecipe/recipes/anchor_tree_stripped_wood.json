@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "betternether:anchor_tree_stripped_bark"
+    }
+  ],
+  "processingTime": 50,
+  "results": [
+    {
+      "count": 6,
+      "item": "betternether:anchor_tree_planks"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "betternether:anchor_tree_bark"
+    }
+  ],
+  "processingTime": 50,
+  "results": [
+    {
+      "item": "betternether:anchor_tree_planks"
+    }
+  ]
+}

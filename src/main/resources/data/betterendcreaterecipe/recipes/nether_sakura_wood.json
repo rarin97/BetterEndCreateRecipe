@@ -1,0 +1,14 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "betternether:nether_sakura_bark"
+    }
+  ],
+  "processingTime": 50,
+  "results": [
+    {
+      "item": "betternether:nether_sakura_planks"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "betternether:wart_log"
+    }
+  ],
+  "processingTime": 50,
+  "results": [
+    {
+      "item": "betternether:wart_stripped_log"
+    }
+  ]
+}

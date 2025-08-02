@@ -1,0 +1,14 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "betternether:wart_bark"
+    }
+  ],
+  "processingTime": 50,
+  "results": [
+    {
+      "item": "betternether:wart_planks"
+    }
+  ]
+}

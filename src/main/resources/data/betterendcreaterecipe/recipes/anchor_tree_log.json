@@ -1,0 +1,14 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "betternether:anchor_tree_log"
+    }
+  ],
+  "processingTime": 50,
+  "results": [
+    {
+      "item": "betternether:anchor_tree_stripped_log"
+    }
+  ]
+}

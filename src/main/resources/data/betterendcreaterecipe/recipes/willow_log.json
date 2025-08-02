@@ -1,0 +1,14 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "betternether:willow_log"
+    }
+  ],
+  "processingTime": 50,
+  "results": [
+    {
+      "item": "betternether:willow_stripped_log"
+    }
+  ]
+}

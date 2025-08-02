@@ -1,28 +1,30 @@
 {
 	"schemaVersion": 1,
-	"id": "promenadecreaterecipe",
+	"id": "betterendcreaterecipe",
 	"version": "${version}",
-	"name": "Promenadecreaterecipe",
-	"description": "adds mechanical saw recipes for Promenade logs!",
+	"name": "betterendcreaterecipe",
+	"description": "adds mechanical saw recipes for betterend logs!",
 	"authors": [
 		"Rarin!"
 	],
 	"license": "MIT",
-	"icon": "assets/promenadecreaterecipe/icon.png",
 	"environment": "*",
 	"entrypoints": {
 		"main": [
-			"net.rarin.promenadecreaterecipe.Promenadecreaterecipe"
+			"net.rarin.betterendcreaterecipe.Betterendcreaterecipe"
 		],
 		"client": [
-			"net.rarin.promenadecreaterecipe.Promenadecreaterecipeclient"
+			"net.rarin.betterendcreaterecipe.Betterendcreaterecipeclient"
 		],
 		"fabric-datagen": [
-			"net.rarin.promenadecreaterecipe.PromenadecreaterecipeDataGenerator"
-		]
+			"net.rarin.betterendcreaterecipe.BetterendcreaterecipeDataGenerator"
+		],
+		"server": [],
+		"fabric-gametest": [],
+		"preLaunch": []
 	},
 	"mixins": [
-		"promenadecreaterecipe.mixins.json"
+		"betterendcreaterecipe.mixins.json"
 	],
 	"depends": {
 		"fabricloader": ">=0.16.14",
